@@ -1,0 +1,4 @@
+scratch.py
+sample.csv
+*.tmp
+__pycache__/
